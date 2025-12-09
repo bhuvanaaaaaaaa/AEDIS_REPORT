@@ -1,0 +1,26 @@
+Courses demonstrating strong performance included “Statistical Learning,” “Capstone Engineering Projects,” “Capstone Project,” “Database Systems I,” “Data Mining,” and “Machine Learning.” These courses exhibited high achievement on final exams, midterms, and assignments, with consistent mastery across multiple assessment types. SLOs in these courses reflected strengthened proficiency, particularly in advanced analytical and project-based competencies. Notable improvements were observed in “Capstone Engineering Projects” and “Statistical Learning,” where students demonstrated increased mastery relative to previous benchmarks.
+
+- “Statistical Learning” showed high final exam scores and strong performance on SLOs related to analytical reasoning and statistical modeling.
+- “Capstone Engineering Projects” and “Capstone Project” exhibited robust results on project deliverables and final assessments, with SLOs indicating advanced mastery in applied engineering and data analysis.
+- “Database Systems I” and “Data Mining” reflected strong achievement in both quizzes and assignments, with SLOs demonstrating proficiency in database management and data mining techniques.
+- “Machine Learning” displayed improved results on midterms and final exams, with SLOs indicating strengthened skills in algorithmic implementation and model evaluation.
+
+===COURSES_NEEDING_SUPPORT===
+Several courses indicated areas requiring additional instructional support, particularly in foundational statistical methods and categorical data analysis. Lower performance was noted on select quizzes and final exams, and SLOs in these courses fell below expected benchmarks, suggesting the need for reinforcement in core concepts and applied skills.
+
+- “Intermediate Statistical Methods for Data Sci” showed inconsistent performance on quizzes and midterms, with SLOs requiring reinforcement in foundational statistical analysis and interpretation.
+- “Probability and Statistics for Data Science” exhibited lower scores on specific quizzes and final exams, with SLOs indicating a need for targeted support in probability theory and inferential statistics.
+- “Categorical Data Analysis” reflected declining performance on final assessments and SLOs, highlighting challenges in categorical data techniques and interpretation.
+
+Recommendations for improvement include:
+- Implementing supplemental instructional sessions focused on core statistical concepts and problem-solving strategies.
+- Providing targeted feedback and formative assessments to address identified skill gaps.
+- Enhancing active learning opportunities and peer collaboration to reinforce conceptual understanding.
+
+===TRENDS===
+Assessment results revealed consistent strengths in advanced analytical and project-based courses, while foundational statistical courses presented persistent challenges. Improvements were observed in project-oriented courses, with students demonstrating increased mastery in applied skills. However, weaknesses in statistical fundamentals and categorical data analysis persisted across terms, indicating an ongoing need for targeted instructional interventions.
+
+- Advanced and project-based courses consistently exhibited high achievement and strengthened SLO mastery.
+- Foundational statistical courses showed recurring areas of low performance, particularly in quizzes and final exams.
+- Persistent patterns of skill gaps in statistical reasoning and categorical data analysis were identified.
+- Notable improvements were observed in applied engineering and statistical learning courses, reflecting effective instructional practices in those areas.
