@@ -129,8 +129,6 @@ If formatting looks wrong, fix the template, not the flow.
 
 ### 7. How to Import the Cloud Flows
 
-### Installation Instructions
-
 1. Download the ZIP from the **Flows/** folder.
 2. Go to Power Automate → Solutions → Import.
 3. Reconnect the connectors:
