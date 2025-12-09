@@ -129,25 +129,20 @@ If formatting looks wrong, fix the template, not the flow.
 
 ### 7. How to Import the Cloud Flows
 
-1. Go to Power Automate → Solutions → Import
-2. Upload AEDIS_5_6_7_25_managed.zip
+### Installation Instructions
 
-3. Reconnect these connectors:
- - OneDrive
+1. Download the ZIP from the **Flows/** folder.
+2. Go to Power Automate → Solutions → Import.
+3. Reconnect the connectors:
+   - Power BI
+   - OneDrive
+   - Word Online (Business)
+   - AI Builder / Azure OpenAI
+4. Update the file paths inside the Parent Flow:
+   - Template path
+   - PNG export folder
+   - Output folder location
 
- - Word Online (Business)
-
- - AI Builder
-
- - Power BI
-
-4. Update file paths in the flow:
-
- - Template path
-
- - PNG file path
-
- - Output folder path
 
 ### 8. How to Extend the System
 - Add new report sections
