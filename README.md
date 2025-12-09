@@ -192,8 +192,12 @@ flowchart TD
     J --> K["OneDrive"]
     K --> A
 ```
+### 10. OneDrive Architecture Overview
+The AEDIS reporting system uses a structured OneDrive directory called AEDIS to organize all input data, templates, and automatically generated output files. Inside this root folder are three main subfolders: Gradebook, Template, and Report. The Gradebook folder contains the Excel dataset (de_gradebook.xlsx) used for analyzing student performance. The Template folder stores the Word template (de_report_Template.docx) that includes all content controls for inserting the AI-generated narrative and the Power BI visualization.
 
-### 10. Licensing Note
+The Report folder functions as the system’s dynamic output workspace. When a faculty user selects a specific year in Power Apps, the Parent Flow automatically checks whether a folder for that year exists inside the Report directory-for example, 2024 or 2025. If the folder does not exist, the flow creates it automatically. All generated assets for that run are then stored inside this year-specific folder. These assets include the Power BI PNG image, the optional AI narrative text file, and the final DOCX report. Because the file paths are passed from Power Apps into the flow, the system always saves outputs in the correct year-based location without requiring any manual folder setup.
+
+### 11. Licensing Note
 
 Populate Word Template is a PREMIUM connector
 You MUST have:
@@ -205,7 +209,7 @@ Microsoft 365 E5/A5
 
 This is required for the automation to work.
 
-### 11. Developer & Faculty Info
+### 12. Developer & Faculty Info
 
 Developer: Bhuvaneshwari Bodakuntla
 
