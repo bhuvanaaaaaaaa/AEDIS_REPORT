@@ -1,0 +1,24 @@
+===COURSES_PERFORMING_WELL===
+Courses with strong student performance were identified based on high average SLO achievement and evidence of mastery in key skill areas. Notable strengths were observed in advanced and specialized courses, with several demonstrating comprehensive SLO attainment and consistent results across all measured outcomes.
+
+- “7270 Advanced Topics in Algorithms” exhibited exemplary performance, with all SLOs reflecting full mastery across a substantial student cohort.
+- “7370 Advanced Computer and Network Security” achieved full mastery in all SLOs, indicating robust student understanding and skill acquisition.
+- “6120 Database Systems I (Fall/Spring)” and “6130 Data Mining” demonstrated strengthened performance in foundational SLOs, with high achievement in core competencies.
+- “7300 Advanced Computer Architecture” and “7500 Advanced Topics in Operating Systems” showed strong mastery in select SLOs, particularly in technical and analytical domains.
+- “6970 Special Topics: Software Analytics” and “6970 Special Topics: Computational Biology” reflected high achievement in advanced SLOs, indicating effective instruction in specialized topics.
+
+===COURSES_NEEDING_SUPPORT===
+Several courses indicated areas where student performance fell below expected benchmarks or where SLO mastery was inconsistent. Targeted instructional interventions are recommended to address these gaps and promote continuous improvement.
+
+- “6210 Compiler Construction” and “6630 Machine Learning” exhibited lower SLO achievement in analytical and synthesis skills, suggesting a need for reinforcement of core concepts.
+- “7500 Advanced Topics in Operating Systems” showed limited mastery in select SLOs, indicating potential gaps in advanced systems understanding.
+- “6970 Special Topics: Cybersecurity Threats&CounterM” and “6970 Special Topics: Information Retrieval” reflected low performance in specific SLOs, particularly in applied and evaluative skill areas.
+- Actionable recommendations include enhanced formative assessment, targeted review sessions, and incorporation of supplemental instructional materials to address identified weaknesses.
+
+===TRENDS===
+Assessment results revealed consistent strengths in advanced and specialized courses, with persistent mastery in algorithmic, security, and data-oriented domains. However, variability in SLO achievement was observed in select foundational and emerging topic areas.
+
+- Advanced courses consistently demonstrated high SLO attainment and robust student performance.
+- Specialized topics in software analytics and computational biology reflected emerging strengths.
+- Foundational and technical courses showed variability in analytical and synthesis SLOs, indicating areas for targeted instructional support.
+- No significant declines from prior terms were evident; however, persistent gaps in select skill areas warrant ongoing monitoring and intervention.
